@@ -1,7 +1,6 @@
 # FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset
 
-*This repository is linked to this paper - "FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset"
-The [paper](https://ojs.aaai.org/index.php/ICWSM/article/view/19383)
+*This repository is linked to this paper - [FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset](https://ojs.aaai.org/index.php/ICWSM/article/view/19383)
 <br>
 
 **The main objective of this paper -**
