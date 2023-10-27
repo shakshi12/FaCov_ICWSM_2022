@@ -1,4 +1,4 @@
-# Misleading-Covid-vaccination-Tweets
+# Fact-Checked COVID-19
 *This repository is linked to this paper - "FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset"
 The [paper]([https://arxiv.org/pdf/2108.10735.pdf](https://ojs.aaai.org/index.php/ICWSM/article/view/19383))
 <br>
