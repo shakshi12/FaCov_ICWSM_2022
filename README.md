@@ -1,7 +1,7 @@
 # FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset
 
 *This repository is linked to this paper - "FaCov: COVID-19 Viral News and Rumors Fact-Check Articles Dataset"
-The [paper]([https://arxiv.org/pdf/2108.10735.pdf](https://ojs.aaai.org/index.php/ICWSM/article/view/19383))
+The [paper]([https://arxiv.org/pdf/2108.10735.pdf](https://ojs.aaai.org/index.php/ICWSM/article/view/19383)
 <br>
 **The main objective of this paper -**
 FaCov – a compilation of fact-checking articles that examine and evaluate some of the most widely circulated rumors and claims concerning the coronavirus. We have collected articles from 13 very popular fact-checking sources, along with information about the articles and the vetted verity assigned to the claims being evaluated. We also share insights into the dataset to highlight and understand the major conversations and conflicts in narratives encompassing the pandemic.
